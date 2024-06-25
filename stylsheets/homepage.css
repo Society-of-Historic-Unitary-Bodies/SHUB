@@ -21,7 +21,7 @@ h1.header {
     width: auto;
     max-width: 100vw;
     height: 150vh;
-    background-image: image("images/eclipse.png");
+    background-image: url(https://society-of-historic-unitary-bodies.github.io/SHUB/images/eclipse.png);
     background-position: center;
     background-size: cover;
 }
